@@ -4,8 +4,8 @@
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -26,6 +26,15 @@ To model the demand for shared bikes with the available independent variables. I
 - We are trying to find the number of rentals issued from the company based on numerous independent values such as temperature, weather, humidity, holiday, etc. 
 - The Boombikes bike rental dataset is being used.
 - Company aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19.
+
+
+## Technologies Used
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- statsmodels
+- sci-kit learn
 
 
 ## Conclusions
@@ -49,14 +58,6 @@ To model the demand for shared bikes with the available independent variables. I
         - Light Rain and Snow: Even light rain or snow leads to a reduction in bike demand, though the drop isn't as sharp as during severe weather.
         - High Winds: High wind speeds negatively impact bike rentals, making it more difficult and less enjoyable to ride.
         - Extreme Temperatures: Both extreme heat and cold lead to a decline in rentals, as harsh weather conditions reduce outdoor activity.
-
-## Technologies Used
-- numpy
-- pandas
-- seaborn
-- matplotlib
-- statsmodels
-- sci-kit learn
 
 
 ## Acknowledgements
