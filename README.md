@@ -26,7 +26,7 @@
 
 - Concepts such as EDA, p-value, VIF, RFE were used and model building was done using statsmodels library
 - **Analysis from the built Model:**
-    - *When the Demand is High:*
+    - When the Demand is High:
         - Seasonal Peaks: Bike rentals increase year over year, with the highest demand occurring between May and October, driven by favorable weather and increased outdoor activities.
         - Fall Season: Bike demand reaches its peak in the fall season, likely due to milder temperatures and more consistent weather.
         - Weather Conditions: Rentals are significantly higher on clear or partly cloudy days, where people are more inclined to rent bikes in pleasant weather.
